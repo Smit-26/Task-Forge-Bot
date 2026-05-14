@@ -1,5 +1,5 @@
 {
-  "name": "kite-task-bot",
+  "name": "forge-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "discord.js": "^14.0.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "latest"
   },
   "engines": {
     "node": "18.x"
